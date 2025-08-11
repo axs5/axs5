@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @axs5
 - 👀 I’m interested in AI programming
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on we'll see
 - 📫 How to reach me ...
 
